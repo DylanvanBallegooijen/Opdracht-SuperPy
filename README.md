@@ -123,3 +123,4 @@ Use `export-format <type>` to store the report in the format specified.
 - `python ./super.py export --database bought --date 2021-06 --export-format csv`
 - `python ./super.py export --database sold --date 2021-06 --export-format xlsx`
 - `python ./super.py export --database products --date 2021 --export-format json`
+# Opdracht-SuperPy-part-2

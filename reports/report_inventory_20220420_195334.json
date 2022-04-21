@@ -1,0 +1,74 @@
+[
+    {
+        "Buy Price": "€ 1.25",
+        "Count": 1,
+        "EAN13": "1234569667278",
+        "Expiration Date": "2021-06-07",
+        "Expired": "Yes",
+        "Product Name": "Orange",
+        "Sum Price": "€ 1.25"
+    },
+    {
+        "Buy Price": "€ 1.25",
+        "Count": 1,
+        "EAN13": "1234569667278",
+        "Expiration Date": "2021-06-08",
+        "Expired": "Yes",
+        "Product Name": "Orange",
+        "Sum Price": "€ 1.25"
+    },
+    {
+        "Buy Price": "€ 1.25",
+        "Count": 1,
+        "EAN13": "1234569667278",
+        "Expiration Date": "2021-06-09",
+        "Expired": "Yes",
+        "Product Name": "Orange",
+        "Sum Price": "€ 1.25"
+    },
+    {
+        "Buy Price": "€ 1.25",
+        "Count": 1,
+        "EAN13": "1234569667278",
+        "Expiration Date": "2021-06-10",
+        "Expired": "Yes",
+        "Product Name": "Orange",
+        "Sum Price": "€ 1.25"
+    },
+    {
+        "Buy Price": "€ 0.80",
+        "Count": 25,
+        "EAN13": "1234569667278",
+        "Expiration Date": "2020-01-01",
+        "Expired": "Yes",
+        "Product Name": "Orange",
+        "Sum Price": "€ 20.00"
+    },
+    {
+        "Buy Price": "€ 0.80",
+        "Count": 1,
+        "EAN13": "1234569667278",
+        "Expiration Date": "2020-05-01",
+        "Expired": "Yes",
+        "Product Name": "Orange",
+        "Sum Price": "€ 0.80"
+    },
+    {
+        "Buy Price": "€ 0.80",
+        "Count": 3,
+        "EAN13": "1234567740812",
+        "Expiration Date": "2020-01-01",
+        "Expired": "Yes",
+        "Product Name": "Peach",
+        "Sum Price": "€ 2.40"
+    },
+    {
+        "Buy Price": "€ 2.25",
+        "Count": 2,
+        "EAN13": "1234567740812",
+        "Expiration Date": "2020-08-01",
+        "Expired": "Yes",
+        "Product Name": "Peach",
+        "Sum Price": "€ 4.50"
+    }
+]
